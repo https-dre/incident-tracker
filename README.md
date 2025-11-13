@@ -5,7 +5,7 @@ Registrando dados como o ID do Perfil Steam (plataforma de jogos) e o ID do Perf
 
 Em comunidades como o [Next Level](https://discord.com/invite/nextlevelbrasil) e o [Prelude Realismo](https://painel.preluderealismo.com.br/) esse registro de ocorrências já existe, mas não é completamente mapeado. Todos os banimentos e reports são registrados em chats por administradores, em um ambiente completamente inapropriado.
 
-Diante deste problema, em conjunto com outros players, pensei em criar um protótipo de painel usando MySQL e PHP que fosse capaz de apenas mapear estes incidentes. Em primeiro momento, podemos inserir players em um painel usando um formulário simples. Depois podemos criar incidentes de forma detalhada inserindo o grau de severidade do incidente, mapeando ocorrências de forma detalhada em um ambiente separado (fora do discord).
+Diante deste problema, em conjunto com outros players, pensei em criar um protótipo de painel usando MySQL e PHP que fosse capaz de apenas mapear estes incidentes. Em primeiro momento, podemos inserir players em um painel usando um formulário simples. Depois podemos criar incidentes de forma detalhada inserindo grau de severidade, mapeando ocorrências de forma detalhada em um ambiente separado (fora do discord).
 
 ## Banco de Dados
 
