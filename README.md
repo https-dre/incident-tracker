@@ -43,6 +43,21 @@ CREATE TABLE IF NOT EXISTS incidents (
 );
 ```
 
-## Alunos
+## Configurações
+
+```env
+HOST=127.0.01 // ou localhost
+MYSQL_USER=andre
+MYSQL_PASSWORD=root
+DB_NAME=mvc
+```
+
+## Futuras melhorias
+
+- correção de bugs de estilização
+- criar páginas mais dinâmicas
+- adicionar features para anexar arquivos
+
+## Equipe
 
 - André de Oliveira Dias 3ºA MTec-Pi
