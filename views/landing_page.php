@@ -72,7 +72,7 @@
           class="bg-blue-600 hover:bg-blue-700 text-white font-bold px-8 py-3 rounded-lg text-lg transition-colors duration-200">
           Ir para o Dashboard
         </a>
-        <a href="#features"
+        <a href="https://github.com/https-dre/incident-tracker"
           class="bg-slate-700 hover:bg-slate-600 text-gray-200 font-semibold px-8 py-3 rounded-lg text-lg transition-colors duration-200">
           Saber Mais
         </a>
