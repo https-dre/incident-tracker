@@ -6,7 +6,10 @@ require_once __DIR__ . '/controllers/incident_controller.php';
 $acao = $_GET['action'] ?? 'index';
 
 switch ($acao) {
-  case 'index':
+  case 'index': // leva para a landing page
+    require __DIR__ . "/views/landing_page.php";
+    break;
+  case 'players':
     index();
     break;
   case 'form':
