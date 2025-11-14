@@ -61,3 +61,4 @@ DB_NAME=mvc
 ## Equipe
 
 - André de Oliveira Dias 3ºA MTec-Pi
+- Arthur Rolemberg 3ºA MTec-Pi
