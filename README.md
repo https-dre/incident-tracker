@@ -62,3 +62,4 @@ DB_NAME=mvc
 
 - André de Oliveira Dias 3ºA MTec-Pi
 - Arthur Rolemberg 3ºA MTec-Pi
+- Beatriz Bezerra 3ºA MTec-Pi
